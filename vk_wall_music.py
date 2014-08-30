@@ -8,7 +8,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')    # Setting default encoding
 
 '''
-This script gets last 100 posts from vkontakte wall and find posts which have an audio attachment.
+This script gets last 100 posts from vkontakte wall and finds posts which have an audio attachment.
 This script uses vk_auth module from  http://alexkutsan.blogspot.com/2013/07/api-vk-python.html 
 '''
 
