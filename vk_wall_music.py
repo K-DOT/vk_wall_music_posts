@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 import vk_auth # from  http://alexkutsan.blogspot.com/2013/07/api-vk-python.html
-import vkontakte, json
+import vkontakte
 import sys, re
 import collections
 reload(sys)
